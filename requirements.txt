@@ -1,0 +1,8 @@
+flowjax
+jax
+json5
+equinox
+numpy
+matplotlib
+jaxopt
+jax-md @ https://github.com/jax-md/jax-md/archive/main.zip

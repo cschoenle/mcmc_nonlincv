@@ -1,0 +1,1 @@
+{"dim": 3, "n_solvent": 200, "n_polymer": 9, "density": 0.48, "bond_length": 1.0, "alpha": 0.8, "sigma": 1.0, "epsilon": 1, "bond_length_1": 1.0, "bond_length_2": 1.63, "end_to_end_length": 4.62, "k_bond_1": 500.0, "k_bond_2": 500.0, "k_end_to_end": 9.1, "kT": 1.3}
