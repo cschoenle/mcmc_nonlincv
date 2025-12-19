@@ -1,11 +1,11 @@
 # Monte-Carlo sampling with non-local CV updates
- [**Link to the Paper**](https://arxiv.org/???)
+ [**Link to the Paper**](https://arxiv.org/abs/2512.16812)
  
 This is the repository with code connected to the following paper:
 
 C.Schönle, D. Carbone, M. Gabrié, T. Lelièvre, G. Stoltz. 
 "Efficient Monte-Carlo sampling of metastable systems using non-local collective variable updates", 
-arXiv:2512.??? (2025)
+arXiv:2512.16812 (2025)
 
 ## Please Note
 (December 2025) At present, the latest version of `jax_md` can only be installed and run with Python 3.12 due to compatibility issues with `jaxlib`. 
